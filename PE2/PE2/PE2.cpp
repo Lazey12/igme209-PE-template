@@ -8,19 +8,19 @@ int main()
     std::cout << "Hello World!\n";
 
     int secondsInDecember = 31 * 24 * 60 * 60;
-    std::cout << secondsInDecember << " seconds in December\n";
+    std::cout << secondsInDecember << " seconds in December.\n";
 
     //area of a circle
     double radius = 6.2;
     double pi = 3.14159;
     double area = pi * radius * radius;
-    std::cout << " area of a circle with radius 6.2 is " << area << "\n";
+    std::cout << "The area of a circle with radius 6.2 is " << area << "\n";
 
     //integer division
     int x = 5;
     int y = 2;
     double result = x / y;
-    std::cout << " The result of integer division of 5 by 2 is " << result;
+    std::cout << "The result of integer division of 5 by 2 is " << result;
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
