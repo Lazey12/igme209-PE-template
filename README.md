@@ -5,9 +5,9 @@
 ## Release Notes
 *Update this dev log with quick notes about the final status of each PE.*
 
-### [PE1](PE1/) - GIT
+### [PE1](PE1/) - GIT - done
 
-### [PE2](PE2/) - Hello World
+### [PE2](PE2/) - Hello World - done and finished
 
 ### [PE3](PE3/) - Functions
 
