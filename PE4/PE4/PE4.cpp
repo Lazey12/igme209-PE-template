@@ -8,24 +8,30 @@ using namespace std;
 
 int main()
 {
-    //1st string
-    char first[50] = "supercalifragilistic";
-
-    //length of 1st string
-    int length = strlen(first);
-    cout << "The length of supercalifragilistic is " << length << endl;
-
-    //2nd string
+    char first[] = "supercalifragilistic";
     char second[] = "expialidocious";
 
-    //combined result
+    int firstLen = strlen(first);
+    cout << "The length of supercalifragilistic is " << firstLen << endl << endl;
+
+    //combined word out
     cout << first << second << endl;
 
-    //number of i chars
+    //i's in combined string
     int count = 0;
-    for (int i = 0; i < strlen(first); i++)
+
+    for (int i = 0; i < firstLen; i++)
     {
         if (first[i] == 'i')
+        {
+            count++;
+        }
+    }
+
+    int secondLen = strlen(second);
+    for (int i = 0; i < secondLen; i++)
+    {
+        if (second[i] == 'i')
         {
             count++;
         }
