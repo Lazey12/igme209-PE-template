@@ -9,9 +9,9 @@
 
 ### [PE2](PE2/) - Hello World - done and finished
 
-### [PE3](PE3/) - Functions
+### [PE3](PE3/) - Functions - done
 
-### [PE4](PE4/) - Strings
+### [PE4](PE4/) - Strings - done
 
 ### [PE5](PE5/) - Debugging
 
