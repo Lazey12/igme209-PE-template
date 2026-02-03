@@ -13,7 +13,7 @@
 
 ### [PE4](PE4/) - Strings - done
 
-### [PE5](PE5/) - Debugging
+### [PE5](PE5/) - Debugging - so mycourses said i was done with PE5, but I just realised that I need to do it right now, basically this rolls a random number on a seed then it does the reverse word inputs
 
 ### [PE6](PE6/) - Pointers
 
