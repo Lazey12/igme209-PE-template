@@ -17,7 +17,6 @@ int main()
         cout << "\nEnter a word: ";
         cin.getline(input, 128);
 
-
         ///q is always true
         // 
         //does not work because it writes characters to the wrong index
