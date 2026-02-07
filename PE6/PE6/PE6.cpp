@@ -17,15 +17,15 @@ int main()
 
     //forces pointer to be 20 and stores a 20 in myint
     *myIntPointer = 20;
-    cout << "myInteger - after set via passByPointer: " << myInteger << endl;
+    cout << "myInteger - after set via myIntPointer: " << myInteger << endl;
 
     //passByValue
     passByValue(myInteger);
-    cout << "myInteger - after set via passByPointer: " << myInteger << endl;
+    cout << "myInteger - after set via passByValue: " << myInteger << endl;
 
     //passByReference
     passByReference(myInteger);
-    cout << "myInteger - after set via passByPointer: " << myInteger << endl;
+    cout << "myInteger - after set via passByReference: " << myInteger << endl;
 
     //passByPointer
     passByPointer(myIntPointer);
