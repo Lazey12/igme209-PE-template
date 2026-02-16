@@ -17,9 +17,9 @@
 
 ### [PE6](PE6/) - Pointers -  it is done, so this is the testing grounds for the storing of data with pointers and original, used by myInteger and myIntegerPointer
 
-### [PE7](PE7/) - More Pointers
+### [PE7](PE7/) - More Pointers - it is done, the createStackArray returns the garbage values as it returns the pointer to local stack array that is destroyed or deleted, after it ends.
 
-### [PE8](PE8/) - Classes	Numeric
+### [PE8](PE8/) - Classes	Numeric - it is done, the array uses -1 as a terminating value instead of passing its length to functions, which is basically the nullptr, but in numeric form! all the numebrs are random! 
 
 ### [PE9](PE9/) - Structs-Inheritance
 
