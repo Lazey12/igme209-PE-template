@@ -1,5 +1,5 @@
 //unsecure code here
-// 
+#define _CRT_SECURE_NO_WARNINGS
 //unsecure code here
 #include "Player.h"
 #include <iostream> //printing code to console
