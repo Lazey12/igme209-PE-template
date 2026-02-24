@@ -10,6 +10,8 @@
 
 using namespace std;
 
+void mainWrapper();
+
 int main()
 {
     srand(time(NULL));
@@ -45,12 +47,14 @@ void mainWrapper()
 
 
 
-    //how is it getting called via p1.print();?
-    //when stack frame gets rid of it
+    //print is just a method to print things in console,
+    //it doesnt have anything to do with memory
+
+
 
     Player* p3ptr = new Player();
     p3ptr->print(); //this will get memory leak!
-    p3ptr->~Player(); //still memory leak.... it only clean name and score instead of the object
+    p3ptr->~Player(); //still memory leak.... it only clean name and score instead of the object -- never wanna do.
 
     delete p3ptr; //still have to use this to delete it and will cause NO leaks.
 
