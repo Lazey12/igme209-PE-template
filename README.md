@@ -21,7 +21,7 @@
 
 ### [PE8](PE8/) - Classes	Numeric - it is done, the array uses -1 as a terminating value instead of passing its length to functions, which is basically the nullptr, but in numeric form! all the numebrs are random! 
 
-### [PE9](PE9/) - Structs-Inheritance
+### [PE9](PE9/) - Structs-Inheritance, ok so i have followed what the class notes have in terms of inheritance, this basically takes in the items inheritancing from the player and then display it on the console screen
 
 ### [PE10](PE10/) - OOP
 
