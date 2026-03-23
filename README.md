@@ -23,7 +23,23 @@
 
 ### [PE9](PE9/) - Structs-Inheritance, ok so i have followed what the class notes have in terms of inheritance, this basically takes in the items inheritancing from the player and then display it on the console screen
 
-### [PE10](PE10/) - OOP
+### [PE10](PE10/) - OO Patterns
+#### Pattern Info
+- Name:Strategy Pattern (behavioral)
+- Link:https://www.gdquest.com/tutorial/godot/design-patterns/strategy/
+*Describe why you chose this pattern & its applicability to simulations/games.*
+Because i think it is very immersive that what happens if oyu pick a role for the entire game, and then you are stuck to that role ,
+ and that role specifically have different options to do things or maybe skip things similar to DND.
+
+#### Implementation Considerations
+*What needs to be considered when implementing this in C++?*
+
+Use a base class Character with a pure virtual function for speak().
+roles should inherits from Character and implements speak() differently.
+
+#### Demo
+*Describe the demo you created.*
+A simple console program where an Archer and a Warrior speak in turn, assumingly this could be used to get complicated RPG dnd dialogue system!
 
 ### [PE11](PE11/) - Playing with Windows
 
