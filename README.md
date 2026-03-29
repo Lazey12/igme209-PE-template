@@ -1,4 +1,4 @@
-# YOUR_NAME
+# Ziyin Zhang
 ### IGME-209 - Spring 2026 (2255) -- Demos & Practice Exercises
 *This repo is used to store & manage projects for weekly individual work in IGME-209. It has been created as a private repo using GitHub Classroom and is owned by your instructor. Creating a public version of this repo and/or sharing IGME-209 assignment solution code with anyone outside of your teaching team will be considered a violation of academic integrity.*
 
@@ -41,9 +41,12 @@ roles should inherits from Character and implements speak() differently.
 *Describe the demo you created.*
 A simple console program where an Archer and a Warrior speak in turn, assumingly this could be used to get complicated RPG dnd dialogue system!
 
-### [PE11](PE11/) - Playing with Windows
+### [PE11](PE11/) - Playing with Windows - so the picture is a simple black background, green ground, yellow sun on the top right, 
+blue bottomed rectangular house body with a red triangle roof on top of it
 
-### [PE12](PE12/) - Smart Pointers
+### [PE12](PE12/) - Smart Pointers - this demonstrates the difference between using normal pointers and smart pointers in C++. 
+its on memory management and how smart pointers help prevent memory leaks, by automatically deleting the memory leaked data,
+ where normal pointer has NO destructore whilst the smart pointer has its own destructor, and i added my name this time on the readme on the top, i hope thats enough
 
 ### [PE13](PE13/) - Theater
 
