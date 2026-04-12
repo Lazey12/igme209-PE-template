@@ -48,7 +48,8 @@ blue bottomed rectangular house body with a red triangle roof on top of it
 its on memory management and how smart pointers help prevent memory leaks, by automatically deleting the memory leaked data,
  where normal pointer has NO destructore whilst the smart pointer has its own destructor, and i added my name this time on the readme on the top, i hope thats enough
 
-### [PE13](PE13/) - Theater
+### [PE13](PE13/) - Theater - basic recursion and iteration in c++, 
+i used the formula that was described and straight up did simple recursion and iteration, this was pretty basic not gonna lie.
 
 ### [PE14](PE14/) - File IO
 
