@@ -52,5 +52,6 @@ its on memory management and how smart pointers help prevent memory leaks, by au
 i used the formula that was described and straight up did simple recursion and iteration, this was pretty basic not gonna lie.
 
 ### [PE14](PE14/) - File IO
+This simply creates pet objects with name type age and displays it then saved it to a file then reads from that file and then stored it in a vector, it will read line by line and saving it in the format of name type and age
 
 ### [PE15](PE15/) - Threads

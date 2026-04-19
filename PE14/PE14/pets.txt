@@ -1,0 +1,3 @@
+Lacy,cat,5
+Shiro,cat,8
+Pax,dog,7
