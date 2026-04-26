@@ -55,3 +55,4 @@ i used the formula that was described and straight up did simple recursion and i
 This simply creates pet objects with name type age and displays it then saved it to a file then reads from that file and then stored it in a vector, it will read line by line and saving it in the format of name type and age
 
 ### [PE15](PE15/) - Threads
+simple expreiments on how theread work, whether from single thread or multiu threaded, single thread seems to be more organized but slow, and multithread is very jumbled but fast perhaps, most assumptions ARE made in the PE, and i commented out the part 1 PE I am not sure if I am supposed to make another PE16 or keep all of them within the same file
